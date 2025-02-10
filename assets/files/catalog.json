@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Cybersecurity Essentials",
+            "author": "James Graham",
+            "desc": "A beginner's guide to key cybersecurity concepts.",
+            "explanation": "This book provides a strong foundation in cybersecurity, covering topics such as risk assessment, network security, cryptography, and cyber threats. It is perfect for students and professionals looking to enhance their knowledge.",
+            "price": 160,
+            "color": "#33505a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRwnHCKaeantw18yonKpFVAp8s_r8BWJPqPpV9eQX68nL4Mm6R"
+        },
+        {
+            "id": 2,
+            "name": "The Cuckoo's Egg",
+            "author": "Clifford Stoll",
+            "desc": "A thrilling true story of tracking a hacker worldwide.",
+            "explanation": "A thrilling account of how Clifford Stoll, an astronomer turned cybersecurity expert, uncovered a major hacking incident. The book offers real-world insights into digital forensics and cybersecurity investigations.",
+            "price": 150,
+            "color": "#00ac51",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697647720i/199797625.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mastering Hacking",
+            "author": "Harsh Bothra",
+            "desc": "A complete guide to ethical hacking and penetration testing.",
+            "explanation": "This book delves into advanced ethical hacking techniques, covering reconnaissance, vulnerability assessment, exploitation, and post-exploitation methodologies. Ideal for cybersecurity professionals and ethical hackers.",
+            "price": 199,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR68t5RCXHY7fwQKwh4czo8kohkdh4wEgf9eb7C6rJKQ-M3cdrh"
+        },
+        {
+            "id": 4,
+            "name": "Linux Basics for Hackers",
+            "author": "OccupyTheWeb",
+            "desc": "A practical Linux introduction for penetration testing and cybersecurity.",
+            "explanation": "This book is a must-read for cybersecurity enthusiasts who want to learn Linux from a hacker's perspective. It covers essential Linux commands, scripting, and tools used in penetration testing.",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://m.media-amazon.com/images/I/81FX4OK2njL.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Spam Nation",
+            "author": "Brian Krebs",
+            "desc": "An inside look at how global spam networks operate.",
+            "explanation": "Brian Krebs exposes the dark world of spam networks and cybercriminals behind large-scale email scams. This investigative book provides an in-depth look at cybersecurity threats related to spam and phishing.",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yGfoF6j_fA21uTCuqkTqRa8PBuShgAWeN8D0mWBOwTeQpp1d"
+        },
+        {
+            "id": 6,
+            "name": "The Hacker Playbook 3",
+            "author": "Peter Kim",
+            "desc": "A step-by-step guide to professional penetration testing techniques.",
+            "explanation": "This book provides a practical approach to penetration testing, focusing on real-world attack simulations and cybersecurity defense techniques. It is widely used by cybersecurity professionals and ethical hackers.",
+            "price": 299,
+            "color": "#f73984",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnBw01XfImUgUzP8uH4HZJpTGcw7cV3q9S0p1C0eypQqexOpoi"
+        },
+        {
+            "id": 7,
+            "name": "Cybersecurity",
+            "author": "Raef Meeuwisse",
+            "desc": "A practical overview of cybersecurity fundamentals for beginners.",
+            "explanation": "A simple and easy-to-understand guide for anyone new to cybersecurity. This book covers key concepts, best practices, and real-world applications of cybersecurity principles.",
+            "price": 129,
+            "color": "#1c1c1c",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559612688i/46141742.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Metasploit",
+            "author": "David Kennedy",
+            "desc": "An in-depth guide to Metasploit, the leading penetration testing framework.",
+            "explanation": "A detailed guide on using the Metasploit Framework for penetration testing, covering reconnaissance, exploitation, and post-exploitation techniques. A must-read for ethical hackers and security researchers.",
+            "price": 189,
+            "color": "#7c95eb",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328753509i/10545174.jpg"
+        }
+    ]
+}
